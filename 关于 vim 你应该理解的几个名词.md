@@ -220,7 +220,11 @@ vim 受很多人喜欢的原因之一可能就是 vim  有很多实用的插件�
 我们可以类比一下 javascript  ， Vimscript 是vim 的脚本语言，一门专注做 vim 的编程语言，上面提到的插件很多都是使用 Vimscipt 去实现的。
 
 推荐一些学习 Vimscript 脚本的资源：
+
+
 [https://www.w3cschool.cn/vim/ljkpbozt.html]
+
+
 [http://learnvimscriptthehardway.stevelosh.com]
 如果你有好的资源欢迎你的推荐。
 
