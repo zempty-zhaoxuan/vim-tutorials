@@ -24,7 +24,7 @@ VIM 如果不是经常使用，很容易忘记它的使用技巧，需要经常�
   * [VIM 的退出](#vim-的退出)
   * [VIM 的输入模式](#vim-的输入模式)
   * [VIM 的命令模式](#vim-的命令模式)
-  * [*VIM 执行 Linux 命令](#vim-执行-linux-命令)
+  * [VIM 执行 Linux 命令](#vim-执行-linux-命令)
   * [定义快捷键](#定义快捷键)
   * [VIM 的正常模式（Normal-model）](#vim-的正常模式normal-model)
   * [VIM 可视化模式（Visual-mode)](#vim-可视化模式visual-mode)
@@ -43,8 +43,8 @@ VIM 如果不是经常使用，很容易忘记它的使用技巧，需要经常�
 VIM 有四个模式:
 
 1.  正常模式 (Normal-mode)
-2.   插入模式 (Insert-mode)
-3. 命令模式 (Command-mode)
+2.  插入模式 (Insert-mode)
+3.  命令模式 (Command-mode)
 4.  可视模式 (Visual-mode)
 
 
@@ -513,7 +513,7 @@ c 表示需要确认，例如全局查找"zempty"替换为"handsome"并且需要
 
 <br>
 
-#### *VIM 执行 Linux 命令
+#### VIM 执行 Linux 命令
 <br>
 
 
