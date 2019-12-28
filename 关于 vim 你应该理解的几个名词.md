@@ -9,7 +9,14 @@
 
 目录
 ----
-
+  * [缓冲区(buffer)](#缓冲区buffer)
+  * [窗口(window)](#窗口window)
+  * [标签 (Tab)](#标签-tab)
+  * [标记 （mark)](#标记-mark)
+  * [寄存器(register)](#寄存器register)
+  * [插件](#插件)
+  * [vim 的脚本（VimScript）](#vim-的脚本vimscript)
+  * [总结](#总结)
 
 ####  缓冲区(buffer)
 
