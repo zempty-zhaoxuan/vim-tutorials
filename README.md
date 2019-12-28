@@ -1,5 +1,3 @@
-<p align = "center" > 精通 vim , 此文就够了  </p> <br>
-
 VIM 是 Linux 系统上一款文本编辑器，它是操作 Linux 的一款利器。
 当前有很多优秀的 IDE 都支持安装 VIM 插件，原因就是使用它便捷，高效，很爽！
 本文主要记录了 VIM 的一些常用使用技巧，方便随时查阅学习 ， 熟练掌握本文以后再推荐你阅读 [关于 vim 你应该知道的几个名词](https://github.com/kickcodeman/vim-tutorials/blob/master/%E5%85%B3%E4%BA%8E%20vim%20%E4%BD%A0%E5%BA%94%E8%AF%A5%E7%90%86%E8%A7%A3%E7%9A%84%E5%87%A0%E4%B8%AA%E5%90%8D%E8%AF%8D.md)，让你跟进一步的了解 vim 。
