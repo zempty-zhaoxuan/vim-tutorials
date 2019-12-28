@@ -1,10 +1,15 @@
-### 关于 vim 你应该理解的几个名词
-
+前言
+----
 前文 [精通 vim , 此文就够了](https://github.com/kickcodeman/vim-tutorials)  ，个人感觉总结的还不错，都是大白话，很容易看懂，跟着文章走几遍，应该会有点收获吧！谢谢读者们，和大家一起进步很开心。。。
 
 学习 vim ,常学常新，使用它我们会不断的有收获。。。
 
-下面我们再来认识一下 vim ，理清下面的 vim 的几个名词，这样我们以后会更好的去使用和进阶vim :  缓冲区（Buffer） /  窗口 (Window )  /  标签（Tab）  / 标记（Mark ）/   寄存器(Register)    /    插件(Plugin) / vim 脚本（Vimscript）
+下面我们再来认识一下 vim ，理清下面的 vim 的几个名词，这样我们以后会更好的去使用和进阶vim :  **缓冲区（Buffer)** ,  **窗口 (Window)** , **标签（Tab)**  , **标记（Mark)** , **寄存器(Register)** , **插件(Plugin)** , **vim 脚本（VimScript)** 。
+<br>
+
+目录
+----
+
 
 ####  缓冲区(buffer)
 
@@ -216,13 +221,13 @@ vim 受很多人喜欢的原因之一可能就是 vim  有很多实用的插件�
 
 假如你是一个 vim 插件迷，或者有十分好用的插件，欢迎你在留言区推荐。
 
-####  vim 的脚本（Vimscript）
+####  vim 的脚本（VimScript）
 
-**什么是 Vimscript ?**
+**什么是 VimScript ?**
 
-我们可以类比一下 javascript  ， Vimscript 是vim 的脚本语言，一门专注做 vim 的编程语言，上面提到的插件很多都是使用 Vimscipt 去实现的。
+我们可以类比一下 javascript  ， VimScript 是vim 的脚本语言，一门专注做 vim 的编程语言，上面提到的插件很多都是使用 VimScipt 去实现的。
 
-推荐一些学习 Vimscript 脚本的资源：
+推荐一些学习 VimScript 脚本的资源：
 
 
 [https://www.w3cschool.cn/vim/ljkpbozt.html]
@@ -233,7 +238,7 @@ vim 受很多人喜欢的原因之一可能就是 vim  有很多实用的插件�
 
 #### 总结
 
-真佩服你阅读到了这里 ， 很高兴和你一起学习进步，点个关注吧。<br>
+真佩服你阅读到了这里 ， 很高兴和你一起学习进步，本文首发微信公众号，可扫码关注。<br>
 
 <p align="center">
   <img src="./wechat.jpeg" alt="微信公众号">
